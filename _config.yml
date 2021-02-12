@@ -30,7 +30,7 @@ twitter_username: @elli_m
 github_username:  emylonas
 
 # Build settings
-theme: "just-the-docs"
+remote_theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
