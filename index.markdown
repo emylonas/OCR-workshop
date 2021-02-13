@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Optical Character Recognition - Turning Images Into Text That You Can Use
+
+this is an introductory paragraph. it will discuss OCR, then point to Elli's slides and Cody's site. 
